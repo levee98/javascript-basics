@@ -1,4 +1,4 @@
-// 1. tétel Összegzés tétele
+// első tétel: összegzés tétele
 const sumArray = (arr) => {
   let sum = 0;
   for (let i = 0; i < arr.length; i++) {
