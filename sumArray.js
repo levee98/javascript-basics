@@ -1,4 +1,4 @@
-// 1. tétel: összegzés tétele
+// 1th sentence: sum of an array
 
 const sumArray = (arr) => {
   let sum = 0;
